@@ -1,8 +1,8 @@
 # Hi, I'm Gautam Chauhan 👋
 
-### BCA Graduate | MERN Stack Developer | Aspiring Data Analyst
+### BCA Graduate | MERN Stack Developer | WordPress Developer | Aspiring Data Analyst
 
-I'm a BCA graduate with hands-on experience in building full-stack web applications using the MERN stack and working with data using SQL, Python, Pandas, Excel and Matplotlib.
+I'm a BCA graduate with hands-on experience in building full-stack web applications using the MERN stack and developing professional websites using WordPress. I also work with SQL, Python, Pandas, Excel and Matplotlib for data analysis.
 
 I enjoy building practical projects, learning new technologies, and solving real-world problems through code and data.
 
@@ -21,6 +21,13 @@ I enjoy building practical projects, learning new technologies, and solving real
 - Express.js
 - MongoDB
 - REST APIs
+
+**WordPress Development**
+- WordPress
+- Theme Customization
+- Plugin Management
+- Responsive Website Development
+- Website Maintenance
 
 **Data Analysis**
 - SQL / MySQL
@@ -51,6 +58,13 @@ MERN-based web application for a modular/cold room business with product listing
 **Tech:** MongoDB, Express.js, React.js, Node.js
 
 🔗 [View Project](https://github.com/GautamChauhan00/Wellmake-MERN)
+
+### 💼 Web Solutions
+
+Professional business website developed using WordPress to showcase web development services, portfolio, and contact information.
+
+**Tech:** WordPress, HTML, CSS, JavaScript
+
 
 ---
 
