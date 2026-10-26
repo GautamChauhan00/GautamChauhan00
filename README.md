@@ -59,15 +59,6 @@ MERN-based web application for a modular/cold room business with product listing
 
 🔗 [View Project](https://github.com/GautamChauhan00/Wellmake-MERN)
 
-### 💼 Web Solutions
-
-Professional responsive business and portfolio website developed using WordPress, Elementor and Astra, featuring dedicated service, about, contact and portfolio pages with contact form, SEO configuration and GitHub-integrated MERN projects.
-
-*Tech:* WordPress, Elementor, Astra, WPForms, Rank Math SEO
-
-🔗 [View Project](https://github.com/GautamChauhan00/web-solutions)
-
-
 ---
 
 ## 📚 Currently Learning
