@@ -1,6 +1,6 @@
 # Hi, I'm Gautam Chauhan 👋
 
-### BCA Graduate | MERN Stack Developer | WordPress Developer | Aspiring Data Analyst
+### BCA Graduate | MERN Stack Developer | Aspiring Data Analyst
 
 I'm a BCA graduate with hands-on experience in building full-stack web applications using the MERN stack and developing professional websites using WordPress. I also work with SQL, Python, Pandas, Excel and Matplotlib for data analysis.
 
